@@ -1,0 +1,53 @@
+# Facebook/Messenger App Android/iOS (Comments, Messages)
+# Instagram App story videos
+b-graph-fallback.facebook.com
+b-graph.facebook.com
+graph-fallback.facebook.com
+graph.facebook.com
+graph.fbpigeon.com
+graph.m-freeway.com
+z-m-graph.facebook.com
+
+# Facebook lite app (messages/notifications), Instagram application settings (slow loading)
+# Facebook/Messenger App Android/iOS (Avatars)
+web.facebook.com
+web-fallback.facebook.com
+
+# Other Facebook functions, unblocking may not be needed
+connect.facebook.com
+connect.facebook.net
+mqtt-mini.facebook.com
+
+# Unblock if you use Whatsapp avatar creator, helpcenter or video effects
+graph.whatsapp.com
+graph.whatsapp.net
+
+# Exact function unknown - calls predominantly from third parties, used for tracking?
+ep2.facebook.com
+
+# AR
+graph.meta.com
+
+# AI
+graph.meta.ai
+
+# Microsoft Defender for Endpoint (MDE) agents
+# Having this blocked presents a security issue if Defender cannot act on security threats in Windows.
+# https://github.com/hagezi/dns-blocklists/issues/5252
+v10c.events.data.microsoft.com
+au-v10c.events.data.microsoft.com
+eu-v10c.events.data.microsoft.com
+jp-v10c.events.data.microsoft.com
+us-v10c.events.data.microsoft.com
+au-v10.events.data.microsoft.com
+eu-v10.events.data.microsoft.com
+jp-v10.events.data.microsoft.com
+us-v10.events.data.microsoft.com
+au-v20.events.data.microsoft.com
+eu-v20.events.data.microsoft.com
+in-v20.events.data.microsoft.com
+jp-v20.events.data.microsoft.com
+uk-v20.events.data.microsoft.com
+us4-v20.events.data.microsoft.com
+us5-v20.events.data.microsoft.com
+us-v20.events.data.microsoft.com
